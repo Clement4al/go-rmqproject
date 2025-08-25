@@ -3,5 +3,6 @@ package main
 import "Go/component"
 
 func main() {
-	component.StartRabbitMQ()
+	// component.StartRabbitMQ()
+	component.Startdb()
 }
